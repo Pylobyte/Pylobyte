@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tony</h1>
-<h3 align="center">I am a Software and Data Engineer</h3>
+# Anthony Collins
+I am a Software and Data Engineer
 
 - You can find my projects at: [https://www.pylobyte.com](https://www.pylobyte.com)
 
