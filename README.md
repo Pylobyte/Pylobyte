@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A Software and Data Engineer</h3>
+<h1 align="center">Hi, I'm Tony</h1>
+<h3 align="center">I am a Software and Data Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.pylobyte.com](https://www.pylobyte.com)
+- You can find my projects at: [https://www.pylobyte.com](https://www.pylobyte.com)
 
-- 📝 I regularly write articles on [https://medium.com/@pylobyte](https://medium.com/@pylobyte)
+- I write articles on [https://medium.com/@pylobyte](https://medium.com/@pylobyte)
 
-- 📫 How to reach me **pylobyte@gmail.com**
+- You can reach out to me at pylobyte@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
