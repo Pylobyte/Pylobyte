@@ -2,9 +2,7 @@
 I am a Software and Data Engineer
 
 - You can find my projects at: [https://www.pylobyte.com](https://www.pylobyte.com)
-
 - I write articles on [https://medium.com/@pylobyte](https://medium.com/@pylobyte)
-
 - You can reach out to me at pylobyte@gmail.com**
 
 ### Blogs posts
